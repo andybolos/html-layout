@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    height: 100px;
+    background-color: #D8D8D8;
+}
+
+header .little_box {
+    height: 75px;
+    width: 75px;
+    background-color: #4A90E2;
+    float: left;
+    margin: 10px;
+}
+
+.white {
+    height: 250px;
+    display: table;
+    margin: 0 40px;
+
+}
+.white p {
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.one {
+    background-color: #4A90E2;
+    height: 125px;
+    width: 100%;
+}
+
+.two {
+    background-color: #50E3C2;
+    height: 125px;
+    width: 100%;
+}
+
+.three {
+    background-color: #B8E986;
+    height: 125px;
+    width: 100%;
+}
+
+footer {
+    background-color: #F8E71C;
+    height: 125px;
+    width: 100%;
+}
